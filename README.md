@@ -11,5 +11,5 @@ a new README file will be generated and a stored as a file in the current workin
 
 ## Screenshots
 The following screenshots demonstrate application functionality. 
-![Screenshot 1](https://github.com/ankushchalla/README-Generator/blob/main/screenshots/prompts.png)
-![Screenshot 2](https://github.com/ankushchalla/README-Generator/blob/main/screenshots/result.png)
+![Screenshot 1](https://github.com/ankushchalla/README-Generator/blob/master/screenshots/prompts.png)
+![Screenshot 2](https://github.com/ankushchalla/README-Generator/blob/master/screenshots/result.png)
