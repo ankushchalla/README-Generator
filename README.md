@@ -1,4 +1,4 @@
-# 09 Node.js Homework: Professional README Generator
+# README Generator
 
 ## Installation 
 * JavaScript file: `index.js`
