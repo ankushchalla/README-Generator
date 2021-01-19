@@ -11,8 +11,4 @@ a new README file will be generated and a stored as a file in the current workin
 
 ## Walkthrough
 The following gif demonstrates application functionality. 
-<<<<<<< HEAD
-![Alt Text]((https://github.com/ankushchalla/README-Generator/blob/main/Generator_Walkthrough.gif))
-=======
-![Alt Text]((https://github.com/ankushchalla/README-Generator/blob/main/Generator_Walkthrough.gif))
->>>>>>> 15435d0fbc2766e76dc24443877540db0ca06f9f
+![Alt Text](https://github.com/ankushchalla/README-Generator/blob/master/Generator_Walkthrough.gif)
