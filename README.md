@@ -1,4 +1,4 @@
-# 09 Node.js Homework: Professional README Generator
+# README Generator
 
 ## Installation 
 * JavaScript file: `index.js`
@@ -11,4 +11,4 @@ a new README file will be generated and a stored as a file in the current workin
 
 ## Walkthrough
 The following gif demonstrates application functionality. 
-![Alt Text]((https://github.com/ankushchalla/README-Generator/blob/main/Generator_ Walkthrough.gif))
+![Alt Text]((https://github.com/ankushchalla/README-Generator/blob/main/Generator_Walkthrough.gif))
