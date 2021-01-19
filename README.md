@@ -9,7 +9,9 @@ Run the command `node index.js` in the terminal, making sure that index.js is a 
 Several prompts will appear. Answer each one, then click enter to recieve the next prompt. After all the prompts have been answered, 
 a new README file will be generated and a stored as a file in the current working directory. 
 
+## Walkthrough video.
+Click [here](https://drive.google.com/file/d/1n-bd-VutExCNPKdlIJsr3MocvMVi1q6x/view) to view a walkthrough video demonstrating how the application can be used.
+
 ## Screenshots
-The following screenshots demonstrate application functionality. 
 ![Screenshot 1](https://github.com/ankushchalla/README-Generator/blob/master/screenshots/prompts.png)
 ![Screenshot 2](https://github.com/ankushchalla/README-Generator/blob/master/screenshots/result.png)
