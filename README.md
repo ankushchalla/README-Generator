@@ -1,5 +1,8 @@
 # README Generator
 
+## Description
+README-Generator takes input from the user through the command line, and creates a README file based on this input.
+
 ## Installation 
 * JavaScript file: `index.js`
 * Node modules: inquirer 
